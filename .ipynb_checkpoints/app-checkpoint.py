@@ -129,18 +129,6 @@ def main():
     else:
         st.info("👆 **Upload test.csv in sidebar** to generate predictions")
     
-    # BITS requirements checklist
-    st.header("✅ BITS Assignment Requirements")
-    st.markdown("""
-    | Requirement | Status |
-    |-------------|--------|
-    | 6+ ML Models | ✅ |
-    | 6 Metrics (Acc/AUC/Prec/Rec/F1/MCC) | ✅ |
-    | CSV Upload | ✅ |
-    | Model Selection Dropdown | ✅ |
-    | CSV Download | ✅ |
-    | Interactive Dashboard | ✅ |
-    """)
     
     st.markdown("---")
     st.markdown("*Muthusubramani Murugan • 2024DC04256 • BITS Pilani WILP*")
