@@ -66,14 +66,6 @@ def main():
     results_df = pd.DataFrame(MODEL_RESULTS).T.round(4)
     st.dataframe(results_df.style.highlight_max(axis=0, color='#d4f4d4'))
     
-    # Download model results
-    csv_results = results_df.to_csv()
-    st.download_button(
-        "📥 Download Model Results CSV",
-        csv_results,
-        "model_performance.csv",
-        "text/csv",
-        use_container_width=True
     )
     
     # Best model highlight
