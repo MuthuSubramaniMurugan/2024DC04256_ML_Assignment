@@ -1,0 +1,7 @@
+,Logistic Regression
+Accuracy,0.7542
+AUC,0.8525
+Precision,0.5246
+Recall,0.786
+F1,0.6292
+MCC,0.477

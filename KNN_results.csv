@@ -1,0 +1,7 @@
+,KNN
+Accuracy,0.7081
+AUC,0.77
+Precision,0.4674
+Recall,0.7191
+F1,0.5665
+MCC,0.3801

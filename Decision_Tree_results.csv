@@ -1,0 +1,7 @@
+,Decision Tree
+Accuracy,0.7267
+AUC,0.7779
+Precision,0.4889
+Recall,0.6622
+F1,0.5625
+MCC,0.3793

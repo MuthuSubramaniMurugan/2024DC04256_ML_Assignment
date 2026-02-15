@@ -1,0 +1,7 @@
+,XGBoost
+Accuracy,0.7445
+AUC,0.8242
+Precision,0.5135
+Recall,0.699
+F1,0.5921
+MCC,0.4227

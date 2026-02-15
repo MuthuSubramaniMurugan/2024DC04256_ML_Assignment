@@ -1,0 +1,7 @@
+,Random Forest
+Accuracy,0.7826
+AUC,0.839
+Precision,0.5799
+Recall,0.6555
+F1,0.6154
+MCC,0.4664
