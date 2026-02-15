@@ -6,3 +6,6 @@ xgboost
 matplotlib
 seaborn
 joblib
+plotly
+imbalanced-learn
+pillow
