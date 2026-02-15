@@ -66,7 +66,6 @@ def main():
     results_df = pd.DataFrame(MODEL_RESULTS).T.round(4)
     st.dataframe(results_df.style.highlight_max(axis=0, color='#d4f4d4'))
     
-    )
     
     # Best model highlight
     best_model = results_df['F1'].idxmax()
